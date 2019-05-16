@@ -1,0 +1,26 @@
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaAssignment\MediaAssignment\bin\Debug\MediaAssignment.dll
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaAssignment\MediaAssignment\bin\Debug\MediaAssignment.pdb
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.csprojResolveAssemblyReference.cache
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.dll
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.pdb
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaAssignment\bin\Debug\MediaAssignment.dll
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaAssignment\bin\Debug\MediaAssignment.pdb
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.csprojResolveAssemblyReference.cache
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.dll
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.pdb
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.csprojAssemblyReference.cache
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.MediaForm.resources
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.csproj.GenerateResource.cache
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.dll
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.pdb
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaAssignment\bin\Debug\MediaAssignment.dll
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaAssignment\bin\Debug\MediaAssignment.pdb
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaAssignment\bin\Debug\MediaAssignment.dll
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaAssignment\bin\Debug\MediaAssignment.pdb
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.csprojAssemblyReference.cache
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.MediaForm.resources
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.csproj.GenerateResource.cache
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.dll
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaAssignment\obj\Debug\MediaAssignment.pdb

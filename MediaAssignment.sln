@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaAssignment", "MediaAssignment\MediaAssignment.csproj", "{CD2F6E32-18CB-40F0-9FE4-79C9F270A529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaClient", "MediaClient\MediaClient\MediaClient.csproj", "{CE3DB5DA-615F-438A-9AEF-8AA6CEE61960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaServer", "MediaServer\MediaServer\MediaServer.csproj", "{BE375760-00EE-4836-BFE2-4AB40F2BDACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD2F6E32-18CB-40F0-9FE4-79C9F270A529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2F6E32-18CB-40F0-9FE4-79C9F270A529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2F6E32-18CB-40F0-9FE4-79C9F270A529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2F6E32-18CB-40F0-9FE4-79C9F270A529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3DB5DA-615F-438A-9AEF-8AA6CEE61960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3DB5DA-615F-438A-9AEF-8AA6CEE61960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3DB5DA-615F-438A-9AEF-8AA6CEE61960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3DB5DA-615F-438A-9AEF-8AA6CEE61960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE375760-00EE-4836-BFE2-4AB40F2BDACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE375760-00EE-4836-BFE2-4AB40F2BDACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE375760-00EE-4836-BFE2-4AB40F2BDACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE375760-00EE-4836-BFE2-4AB40F2BDACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

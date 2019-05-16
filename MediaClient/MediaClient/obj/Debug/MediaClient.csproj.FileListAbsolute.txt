@@ -1,0 +1,62 @@
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaClient\MediaClient\bin\Debug\MediaClient.exe.config
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaClient\MediaClient\bin\Debug\MediaClient.exe
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaClient\MediaClient\bin\Debug\MediaClient.pdb
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaClient\MediaClient\obj\Debug\MediaClient.csprojResolveAssemblyReference.cache
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaClient\MediaClient\obj\Debug\MediaClient.MediaClient.resources
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaClient\MediaClient\obj\Debug\MediaClient.Properties.Resources.resources
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaClient\MediaClient\obj\Debug\MediaClient.csproj.GenerateResource.Cache
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaClient\MediaClient\obj\Debug\MediaClient.exe
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaClient\MediaClient\obj\Debug\MediaClient.pdb
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaClient\MediaClient\obj\Debug\MediaClient.StartupDlg.resources
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaClient.exe.config
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.exe
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.pdb
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.csprojResolveAssemblyReference.cache
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.MediaClient.resources
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.Properties.Resources.resources
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.StartupDlg.resources
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.csproj.GenerateResource.Cache
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaClient.exe
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaClient.pdb
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaAssignment.dll
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaAssignment.pdb
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaClient.exe.config
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.exe
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.pdb
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaClient.exe
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaClient.pdb
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaAssignment.dll
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaAssignment.pdb
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.csprojResolveAssemblyReference.cache
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.MediaClient.resources
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.Properties.Resources.resources
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.StartupDlg.resources
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.csproj.GenerateResource.Cache
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaClient.exe.config
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaClient.exe
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaClient.pdb
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaAssignment.dll
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\bin\Debug\MediaAssignment.pdb
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.csprojAssemblyReference.cache
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.MediaClient.resources
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.Properties.Resources.resources
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.StartupDlg.resources
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.csproj.GenerateResource.cache
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.csproj.CoreCompileInputs.cache
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.csproj.CopyComplete
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.exe
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.pdb
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\bin\Debug\MediaClient.exe.config
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\bin\Debug\MediaClient.exe
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\bin\Debug\MediaClient.pdb
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\bin\Debug\MediaAssignment.dll
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\bin\Debug\MediaAssignment.pdb
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.csprojAssemblyReference.cache
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.MediaClient.resources
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.Properties.Resources.resources
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.StartupDlg.resources
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.csproj.GenerateResource.cache
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.csproj.CoreCompileInputs.cache
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.csproj.CopyComplete
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.exe
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaClient\MediaClient\obj\Debug\MediaClient.pdb

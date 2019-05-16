@@ -1,0 +1,57 @@
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaServer\MediaServer\bin\Debug\MediaServer.exe.config
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaServer\MediaServer\bin\Debug\MediaServer.exe
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaServer\MediaServer\bin\Debug\MediaServer.pdb
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaServer\MediaServer\obj\Debug\MediaServer.FormMediaServer.resources
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaServer\MediaServer\obj\Debug\MediaServer.Properties.Resources.resources
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaServer\MediaServer\obj\Debug\MediaServer.csproj.GenerateResource.Cache
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaServer\MediaServer\obj\Debug\MediaServer.exe
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaServer\MediaServer\obj\Debug\MediaServer.pdb
+c:\users\bgauvin\documents\visual studio 2013\Projects\MediaServer\MediaServer\obj\Debug\MediaServer.csprojResolveAssemblyReference.cache
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.csprojResolveAssemblyReference.cache
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.FormMediaServer.resources
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.Properties.Resources.resources
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.csproj.GenerateResource.Cache
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.exe
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaServer.exe.config
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaServer.exe
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaServer.pdb
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaAssignment.dll
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaAssignment.pdb
+C:\Users\bgauvin\Documents\Visual Studio 2013\Projects\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.pdb
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaServer.exe.config
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaServer.exe
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaServer.pdb
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaAssignment.dll
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaAssignment.pdb
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.csprojResolveAssemblyReference.cache
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.FormMediaServer.resources
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.Properties.Resources.resources
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.csproj.GenerateResource.Cache
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.exe
+C:\Classes\USF\Network Programming\Projects\STODOs\Project1\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.pdb
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaServer.exe.config
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaServer.exe
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaServer.pdb
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaAssignment.dll
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaServer\MediaServer\bin\Debug\MediaAssignment.pdb
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.csprojAssemblyReference.cache
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.FormMediaServer.resources
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.Properties.Resources.resources
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.csproj.GenerateResource.cache
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.csproj.CoreCompileInputs.cache
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.csproj.CopyComplete
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.exe
+C:\Users\Zoe Becker\Downloads\MediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.pdb
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaServer\MediaServer\bin\Debug\MediaServer.exe.config
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaServer\MediaServer\bin\Debug\MediaServer.exe
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaServer\MediaServer\bin\Debug\MediaServer.pdb
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaServer\MediaServer\bin\Debug\MediaAssignment.dll
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaServer\MediaServer\bin\Debug\MediaAssignment.pdb
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.csprojAssemblyReference.cache
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.FormMediaServer.resources
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.Properties.Resources.resources
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.csproj.GenerateResource.cache
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.csproj.CoreCompileInputs.cache
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.csproj.CopyComplete
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.exe
+C:\Users\Zoe Becker\Desktop\wMediaAssignment\MediaServer\MediaServer\obj\Debug\MediaServer.pdb
